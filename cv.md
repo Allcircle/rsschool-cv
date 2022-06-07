@@ -34,7 +34,7 @@ function multiply(a, b){
 ## Experience
 Data | Company
 :---:|:---:|
-March 2022 -June 2022     | Marine Engineering Center
+March 2022 -June 2022     | Marine Engineering Center SPb
 April 2020 - March 2022   | Kliver
 January 2020 - April 2020 | NAVA
 April 2017 - January 2020 | Yantar
