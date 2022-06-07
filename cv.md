@@ -16,7 +16,7 @@ Discord: allcircle#6909
 I am a shipbuilding engineer, currently trying to learn web development.
 
 ## Skills
-* AutoCAD (2D, 3D)
+* AutoCAD
 * CADMATIC
 * HTML (in progress)
 * CSS (in progress)
