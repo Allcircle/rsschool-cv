@@ -1,0 +1,108 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Spline Sans Mono', monospace;
+    line-height: 1.6;
+}
+
+header {
+    width: 100%;
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.contacts {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.profile {
+    margin: 10px;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.contanier {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-me-header {
+    background-color: lightgreen;
+    padding-left: 10px;     
+}
+
+.skills-header {
+    background-color: lightgreen;
+    padding-left: 10px;
+}
+
+.code-example-header {
+    background-color: lightgreen;
+    padding-left: 10px;
+}
+
+.experience-header {
+    background-color: lightgreen;
+    padding-left: 10px;
+}
+
+.education-header {
+    background-color: lightgreen;
+    padding-left: 10px;
+}
+
+.languages-header {
+    background-color: lightgreen;
+    padding-left: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid gray;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+
+th,
+td {
+    border: 1px solid gray;
+}
+
+.social_media_contanier {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-inline-start: 0;
+}
+
+footer {
+    background-color: lightgreen;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.social_media {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
