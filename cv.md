@@ -1,7 +1,7 @@
 # Elena Filippova
 
 ## Contact Info:
-Location: Kaliningrad, Russia
+Location: Almaty, Kazakhstan
 
 Phone: +79814647205
 
